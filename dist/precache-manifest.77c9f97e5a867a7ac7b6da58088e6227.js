@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/img/whatsapp.6e9b27a3.png"
   },
   {
-    "revision": "ba92442cfccc93574074",
-    "url": "/js/app.9321f09c.js"
+    "revision": "2b2bc9181d78e29a72bc",
+    "url": "/js/app.bc5cd14e.js"
   },
   {
     "revision": "c62e28f2e3136a4357e7",
@@ -64,11 +64,11 @@ self.__precacheManifest = [
     "url": "/img/anna.25a2e83b.jpg"
   },
   {
-    "revision": "1ccd25225ca19c89f0ef6cd57a08c07c",
+    "revision": "331a57810a57d279ec915cf6e59c5069",
     "url": "/index.html"
   },
   {
-    "revision": "ba92442cfccc93574074",
-    "url": "/css/app.e06f432d.css"
+    "revision": "2b2bc9181d78e29a72bc",
+    "url": "/css/app.dd4e9e3a.css"
   }
 ];
