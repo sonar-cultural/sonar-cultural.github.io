@@ -1,11 +1,16 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Home from './views/Home.vue';
+import Artefatos from './views/Artefatos.vue';
+import Equipe from './views/Equipe.vue';
+import Processo from './views/Processo.vue';
+import Ferramentas from './views/Ferramentas.vue';
+import Papeis from './views/Papeis.vue';
+import Produto from './views/Produto.vue';
 
 Vue.use(Router);
 
 export default new Router({
-  mode: 'history',
   base: process.env.BASE_URL,
   routes: [
     {
@@ -14,12 +19,34 @@ export default new Router({
       component: Home,
     },
     {
-      path: '/about',
-      name: 'about',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/About.vue'),
+      path: '/artefatos',
+      name: 'artefatos',
+      component: Artefatos,
+    },
+    {
+      path: '/equipe',
+      name: 'equipe',
+      component: Equipe,
+    },
+    {
+      path: '/processo',
+      name: 'processo',
+      component: Processo,
+    },
+    {
+      path: '/ferramentas',
+      name: 'ferramentas',
+      component: Ferramentas,
+    },
+    {
+      path: '/papeis',
+      name: 'papeis',
+      component: Papeis,
+    },
+    {
+      path: '/produto',
+      name: 'produto',
+      component: Produto,
     },
   ],
 });
