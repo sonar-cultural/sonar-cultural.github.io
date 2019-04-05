@@ -76,7 +76,7 @@ export default {
 .membro img:hover {
   webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
   filter: grayscale(0%);
-  transition: 1.2s;
+  transition: 1.3s;
 }
 
 .info {

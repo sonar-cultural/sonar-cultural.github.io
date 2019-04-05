@@ -2,9 +2,8 @@
   <div class="banner">
     <div class="content">
       <h1>
-        Lorem ipsum dolor, sit amet consectetur
-        adipisicing elit. Soluta tenetur cum numquam.
-        Nulla qui nesciunt.
+        Somos uma iniciativa de resgate e
+        valorização de culturas regionais do Brasil.
       </h1>
     </div>
   </div>
