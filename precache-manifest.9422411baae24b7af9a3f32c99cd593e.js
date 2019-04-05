@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "de6ac04aefd0039e6f735ec717eac72a",
-    "url": "/img/livia.de6ac04a.jpg"
+    "revision": "6e9b27a3c750b33d7173342e677c71dc",
+    "url": "/img/whatsapp.6e9b27a3.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "d026092abfe6577fc3c79207382456c7",
-    "url": "/img/vivi.d026092a.jpg"
+    "revision": "de6ac04aefd0039e6f735ec717eac72a",
+    "url": "/img/livia.de6ac04a.jpg"
   },
   {
     "revision": "c62e28f2e3136a4357e7",
@@ -28,47 +28,47 @@ self.__precacheManifest = [
     "url": "/img/tiago.a4c66a6f.jpg"
   },
   {
+    "revision": "00166fceb9af1b6606cc8fd0d5ce227a",
+    "url": "/img/banner.00166fce.png"
+  },
+  {
     "revision": "44de942668a76e8073302572be66c5ee",
     "url": "/img/wilson.44de9426.jpg"
   },
   {
-    "revision": "6e9b27a3c750b33d7173342e677c71dc",
-    "url": "/img/whatsapp.6e9b27a3.png"
-  },
-  {
-    "revision": "2b2bc9181d78e29a72bc",
-    "url": "/js/app.bc5cd14e.js"
+    "revision": "068b0665dc63caae5c7f",
+    "url": "/js/app.c5229806.js"
   },
   {
     "revision": "c62e28f2e3136a4357e7",
     "url": "/js/chunk-vendors.f7ea087c.js"
   },
   {
+    "revision": "d026092abfe6577fc3c79207382456c7",
+    "url": "/img/vivi.d026092a.jpg"
+  },
+  {
     "revision": "bdd25ad520005abbe902a7d0a28e3b63",
     "url": "/img/drive.bdd25ad5.png"
   },
   {
-    "revision": "1f503c157d67177beaa570f1d869d644",
-    "url": "/img/logo.1f503c15.png"
+    "revision": "ef77da19090a1528e760a9e02cb9592b",
+    "url": "/img/logo.ef77da19.png"
   },
   {
     "revision": "10847ae83151cf052ec74dae67ce739f",
     "url": "/img/lucca.10847ae8.jpg"
   },
   {
-    "revision": "00166fceb9af1b6606cc8fd0d5ce227a",
-    "url": "/img/banner.00166fce.png"
-  },
-  {
     "revision": "25a2e83b674fcfe004379ae265e81aa8",
     "url": "/img/anna.25a2e83b.jpg"
   },
   {
-    "revision": "331a57810a57d279ec915cf6e59c5069",
+    "revision": "19f7e76eca6d6456129f5ad78b881a56",
     "url": "/index.html"
   },
   {
-    "revision": "2b2bc9181d78e29a72bc",
-    "url": "/css/app.dd4e9e3a.css"
+    "revision": "068b0665dc63caae5c7f",
+    "url": "/css/app.a72655ef.css"
   }
 ];
