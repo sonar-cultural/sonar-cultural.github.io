@@ -16,9 +16,9 @@
           <b-nav-item-dropdown id="nav7_ddown" text="Como Trabalhamos" right>
             <b-dropdown-item href="#/processo">Processo</b-dropdown-item>
             <b-dropdown-item href="#/ferramentas">Ferramentas</b-dropdown-item>
-            <b-dropdown-item href="#/papeis" disabled>Papéis e Responsabilidades</b-dropdown-item>
+            <b-dropdown-item href="#/papeis">Papéis e Responsabilidades</b-dropdown-item>
           </b-nav-item-dropdown>
-          <b-nav-item href="#/produto" disabled>Produto</b-nav-item>
+          <b-nav-item href="#/produto">Produto</b-nav-item>
         </b-navbar-nav>
       </b-navbar-nav>
     </b-collapse>

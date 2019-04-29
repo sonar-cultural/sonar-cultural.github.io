@@ -41,6 +41,19 @@
           </b-col>
         </b-row>
         <hr class="line"><br>
+        <b-row>
+          <b-col sm="2">
+            <img src="../assets/trello.png" alt="Trello Icon">
+          </b-col>
+          <b-col sm="10">
+            <h2>Trello</h2>
+            <p>Ferramenta de colaboração que organiza os projetos em quadros,
+            informando o que está sendo trabalhado, quem está trabalhando em quê,
+            e onde algo está em um processo.
+            </p>
+          </b-col>
+        </b-row>
+        <hr class="line"><br>
     </b-container>
   </Page>
 </template>
