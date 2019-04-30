@@ -38,4 +38,14 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+
+a,
+a:not(:visited),
+a:visited {
+  color: rgba(114, 68, 0, 0.548);
+}
+
+a:hover {
+  color: rgba(99, 60, 1, 0.856) !important;
+}
 </style>

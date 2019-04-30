@@ -7,7 +7,7 @@
       da equipe no projeto. As atividades são distribuídas por
       membro da equipe e todo o status é monitorado por lá.<br><br>
       <a href="http://bit.do/sonar-cultural" target="_blank">
-        http://bit.do/sonar-cultural
+        Quadro de atividades
       </a>
     </p><br>
 
@@ -21,6 +21,9 @@
       <a href="http://bit.do/sonar-cultura-kick-off" target="_blank">
         Kick Off
       </a><br>
+      <a href="http://bit.do/status-1" target="_blank">
+        Status Report 1
+      </a><br>
     </p><br>
 
     <!-- OUTROS -->
@@ -28,8 +31,11 @@
     <p>
       Alguns outros documentos que fazem parte do processo do projeto.
       <br><br>
-      <a href="http://bit.do/doc-req" target="_blank">
-        Documento de Requisitos
+      <a href="https://trello.com/b/eXJrOC4A/brainstorm" target="_blank">
+        Quadro da Matriz CSD
+      </a><br>
+      <a href="http://bit.do/pmc-sonar" target="_blank">
+       Project Model Canvas
       </a><br>
     </p><br>
   </Page>
