@@ -2,6 +2,7 @@ import Vue from 'vue';
 import Router from 'vue-router';
 import Home from './views/Home.vue';
 import Artefatos from './views/Artefatos.vue';
+import Calendar from './views/Calendar.vue';
 import Equipe from './views/Equipe.vue';
 import Processo from './views/Processo.vue';
 import Ferramentas from './views/Ferramentas.vue';
@@ -22,6 +23,11 @@ export default new Router({
       path: '/artefatos',
       name: 'artefatos',
       component: Artefatos,
+    },
+    {
+      path: '/calendario',
+      name: 'calendario',
+      component: Calendar,
     },
     {
       path: '/equipe',

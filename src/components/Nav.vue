@@ -12,6 +12,7 @@
         <b-navbar-nav class="menu">
           <b-nav-item href="#/">Início</b-nav-item>
           <b-nav-item href="#/artefatos">Artefatos</b-nav-item>
+          <b-nav-item href="#/calendario">Calendário</b-nav-item>
           <b-nav-item href="#/equipe">Equipe</b-nav-item>
           <b-nav-item-dropdown id="nav7_ddown" text="Como Trabalhamos" right>
             <b-dropdown-item href="#/processo">Processo</b-dropdown-item>
