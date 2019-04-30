@@ -21,6 +21,14 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@font-face {
+    font-family: 'xilosaxilosa';
+    src: url('./assets/xilosa_.woff2') format('woff2'),
+         url('./assets/xilosa_.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 #app {
   position: relative;

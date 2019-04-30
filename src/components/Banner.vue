@@ -35,8 +35,8 @@
 }
 
 .content h1 {
-  font-family: 'Damion', cursive;
-  font-size: 2.9em;
+  font-family: 'xilosaxilosa', sans-serif;
+  font-size: 3.6em;
   margin: 0;
 }
 </style>
