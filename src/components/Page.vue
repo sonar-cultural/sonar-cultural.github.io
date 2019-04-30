@@ -25,6 +25,7 @@ export default {
 .content {
   padding: 5% 10% 8%;
   text-align: justify;
+  min-height: 75vh;
 }
 
 .content h2 {
