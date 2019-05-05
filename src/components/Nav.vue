@@ -28,7 +28,7 @@
 
 <style>
 .navbar {
-  background-color: rgb(241, 230, 199);
+  background-color: #4f4f4f;
 }
 
 .logo {
@@ -41,7 +41,7 @@
 }
 
 .menu a {
-  color: rgba(0, 0, 0, 0.7);
+  color: white !important;
   font-family: 'Roboto', sans-serif;
   font-size: 0.9em;
   font-weight: 300;
@@ -49,11 +49,13 @@
 }
 
 .menu a:hover {
-  color: #240203;
+  color: rgb(189, 184, 184) !important;
 }
 
+a.dropdown-item { color: #4f4f4f !important; }
+
 .dropdown-item:active {
-  background-color: rgba(114, 68, 0, 0.75) !important;
+  background-color: #414042 !important;
 }
 
 </style>

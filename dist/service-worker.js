@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.77c9f97e5a867a7ac7b6da58088e6227.js"
+  "/precache-manifest.4f24be5e044424eaf9f2e7ab8291480b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sonar-cultural"});

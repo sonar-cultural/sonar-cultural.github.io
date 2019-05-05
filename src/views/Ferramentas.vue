@@ -54,6 +54,19 @@
           </b-col>
         </b-row>
         <hr class="line"><br>
+        <b-row>
+          <b-col sm="2">
+            <img src="../assets/drawio.png" class="img-sm" alt="Draw.io Icon">
+          </b-col>
+          <b-col sm="10">
+            <h2>Draw.io</h2>
+            <p>
+              Ferramenta gratuita fornecida pelo Google para
+              a criação de desenhos, diagramas e fluxos.
+            </p>
+          </b-col>
+        </b-row>
+        <hr class="line"><br>
     </b-container>
   </Page>
 </template>
@@ -78,4 +91,6 @@ img {
 .line {
   border: 0.5px solid rgb(211, 211, 211);
 }
+
+.img-sm { width: 90px; }
 </style>

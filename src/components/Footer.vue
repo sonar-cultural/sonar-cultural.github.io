@@ -11,7 +11,8 @@
   right: 0px;
   left: 0px;
   bottom: 0px;
-  background-color: rgb(241, 230, 199);
+  background-color: #4f4f4f;
+  color: white;
   padding: 20px;
   font-size: 0.8em;
 }

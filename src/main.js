@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import BootstrapVue from 'bootstrap-vue';
+import 'vue-cal/dist/vuecal.css';
 import App from './App.vue';
 import router from './router';
 import './registerServiceWorker';

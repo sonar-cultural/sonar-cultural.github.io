@@ -29,13 +29,22 @@
     <!-- OUTROS -->
     <h2>Outros</h2>
     <p>
-      Alguns outros documentos que fazem parte do processo do projeto.
+      Documentos que fazem parte do processo do projeto.
       <br><br>
       <a href="https://trello.com/b/eXJrOC4A/brainstorm" target="_blank">
         Quadro da Matriz CSD
       </a><br>
       <a href="http://bit.do/pmc-sonar" target="_blank">
        Project Model Canvas
+      </a><br>
+      <a href="https://drive.google.com/open?id=16CDSvusI0aFrYbu5HQJu--nXgvqmd_YK" target="_blank">
+       Documento de Requisitos
+      </a><br>
+      <a href="https://drive.google.com/open?id=1FuA3qFZfXAZAaqa6LxrRKfJJK6nJ76hv" target="_blank">
+       Diagrama de Contexto
+      </a><br>
+      <a href="https://drive.google.com/open?id=1Wbw1ar8x0XLCG9VLfG0yQSA6HjK82H3u" target="_blank">
+       Casos de Uso
       </a><br>
     </p><br>
   </Page>
