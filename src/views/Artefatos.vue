@@ -24,6 +24,9 @@
       <a href="http://bit.do/status-1" target="_blank">
         Status Report 1
       </a><br>
+      <a href="https://drive.google.com/open?id=1mQTUn58cRX2uHX8Fty1tZ8XGFoleYoaLh-X3z4VbD48" target="_blank">
+        Status Report 2
+      </a><br>
     </p><br>
 
     <!-- OUTROS -->
@@ -43,8 +46,11 @@
       <a href="https://drive.google.com/open?id=1FuA3qFZfXAZAaqa6LxrRKfJJK6nJ76hv" target="_blank">
        Diagrama de Contexto
       </a><br>
-      <a href="https://drive.google.com/open?id=1Wbw1ar8x0XLCG9VLfG0yQSA6HjK82H3u" target="_blank">
+      <a href="https://drive.google.com/open?id=1J3S8wVoYJQVZMo7VoyF5pYE6wEGsBAru" target="_blank">
        Casos de Uso
+      </a><br>
+      <a href="https://drive.google.com/open?id=1q_Oyy6u-ljaQ_WPtT8Lp_B0iIYqFTIb7" target="_blank">
+       Arquitetura do projeto
       </a><br>
     </p><br>
   </Page>
